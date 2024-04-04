@@ -1,5 +1,11 @@
 # ft_linux
-My very own Linux distro.
+Our very own Linux distro.
 
-## Resources 
+# Contents
+- [Usage](#usage)
+- [Resources](#resources)
+
+# Usage
+
+# Resources
 [Wiki](https://github.com/chughes741/ft_linux/wiki)
